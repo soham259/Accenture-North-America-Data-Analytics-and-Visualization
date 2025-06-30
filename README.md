@@ -1,9 +1,12 @@
 # Accenture Data Analytics and Visualization Virtual Internship
 
-
 ## 📝 Certification
 
 View certification here: [Accenture Data Analytics and Visualization Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_yx8rjH5MqdXE3Yo2o_1737650811963_completion_certificate.pdf)
+
+## 📚 Course Link
+
+You can access the course here: [Accenture Data Analytics and Visualization Virtual Internship](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 
 ## 📊 Project Overview
 
